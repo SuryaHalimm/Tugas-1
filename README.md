@@ -1,2 +1,1 @@
-# Tugas-1
-Surya Halim 535210020
+# Surya Halim 535210020
